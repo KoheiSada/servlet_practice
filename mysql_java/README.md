@@ -28,7 +28,7 @@ use company_db;
 # table
 show tables;
 # create table
-create table shain_table(id smallint UNIQUE, name text, sei text,
+create table shain_table(id smallint UNIQUE, name text, sei text, nen smallint, address text);
 # insert data
 insert into shain_table(id,name,sei,nen,address) values('100','山田太郎','男','2002','東京都世田谷区');
 # search
