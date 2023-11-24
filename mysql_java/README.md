@@ -1,4 +1,4 @@
-# Foobar
+# mysql and java practice
 
 Foobar is a Python library for dealing with word pluralization.
 
